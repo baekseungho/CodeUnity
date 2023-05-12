@@ -30,6 +30,4 @@ Enviroment
 <br>
 Link
 <br>
-[codeunity Web](https://codeunity.web.app/)
-<a  href="https://codeunity.web.app/" target="_blank">codeunity.web.app/</a><br>
-<a  href="https://1drv.ms/p/s!AvbTI_pfWB3zgQGgre4gL6gDFCK5?e=tQQZkP" target="_blank">PPT 보기</a>
+[codeunity Web](https://codeunity.web.app/target="_blank")
